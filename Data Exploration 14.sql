@@ -176,4 +176,6 @@ JOIN [PortfolioProject ]..CovidVaccination vac
 	SELECT *
 	FROM PercentPopulationVaccinat
 
-
+	--- I'm working on my first repository   -----
+	SELECT * 
+	FROM PercentPopulationVaccinat
